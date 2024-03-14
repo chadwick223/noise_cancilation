@@ -189,4 +189,5 @@ _, y = wavfile.read(y_file)
 
 ANC(x, y)
  
-##there is issue with mean square error which not been calculated correctly .
+#there is issue with mean square error which has not been calculated correctly . 
+
